@@ -1,0 +1,20 @@
+﻿Employee_ID,Gender,Job_Level _after _FY20 _promotions,New _hire_ FY20,FY20_Performance_Rating,Promotion_in_FY21?,In_ base_ group_ fo_Promotion_ FY21,In_base_group_for_turnover_FY20,Department_2020,Job_Level_after_FY21_promotions,Time_in_ Job_Level_2020,Promotion_in_FY20,Age_group,Age_2020,Nationality 1,Region_group,Rand
+87,Male,1 - Executive,N,2,No,No,Y,Internal Services,1 - Executive,3,N,40 to 49,40,Switzerland,Switzerland,R0.21735
+127,Male,1 - Executive,N,2,No,No,Y,Finance,1 - Executive,2,N,50 to 59,55,Switzerland,Switzerland,R0.67126
+128,Male,1 - Executive,N,3,No,No,Y,Strategy,1 - Executive,3,N,40 to 49,42,Switzerland,Switzerland,R0.25283
+144,Male,1 - Executive,Y,3,No,No,N,Strategy,1 - Executive,0,N,40 to 49,49,Switzerland,Switzerland,R0.96337
+222,Male,2 - Director,N,3,Yes,Yes,Y,Sales & Marketing,1 - Executive,6,N,30 to 39,39,Switzerland,Switzerland,R0.70351
+257,Male,1 - Executive,N,2,No,No,Y,Strategy,1 - Executive,3,N,40 to 49,43,Switzerland,Switzerland,R0.84566
+280,Male,1 - Executive,Y,3,No,No,N,Internal Services,1 - Executive,0,N,30 to 39,38,France,Europe,R0.15823
+316,Male,1 - Executive,N,2,No,No,Y,Operations,1 - Executive,1,Y,40 to 49,48,France,Europe,R0.41208
+343,Female,1 - Executive,N,2,No,No,Y,HR,1 - Executive,2,N,40 to 49,47,Switzerland,Switzerland,R0.20906
+363,Male,1 - Executive,N,3,No,No,Y,Strategy,1 - Executive,4,N,40 to 49,45,France,Europe,R0.44597
+404,Male,1 - Executive,N,2,No,No,Y,Strategy,1 - Executive,2,N,50 to 59,50,France,Europe,R0.53887
+405,Male,1 - Executive,N,3,No,No,Y,Strategy,1 - Executive,5,N,40 to 49,47,Switzerland,Switzerland,R0.67973
+421,Male,2 - Director,N,3,Yes,Yes,Y,Strategy,1 - Executive,3,N,40 to 49,48,France,Europe,R0.36889
+425,Male,1 - Executive,N,2,No,No,Y,Strategy,1 - Executive,1,Y,40 to 49,42,Germany,Europe,R0.53152
+427,Male,1 - Executive,Y,2,No,No,N,Strategy,1 - Executive,0,N,60 to 69,60,France,Europe,R0.60173
+455,Female,1 - Executive,N,2,No,No,Y,Sales & Marketing,1 - Executive,4,N,40 to 49,45,France,Europe,R0.76898
+467,Male,2 - Director,N,2,Yes,Yes,Y,Sales & Marketing,1 - Executive,5,N,40 to 49,48,Switzerland,Switzerland,R0.43342
+477,Female,2 - Director,N,2,Yes,Yes,Y,Internal Services,1 - Executive,6,N,40 to 49,44,Switzerland,Switzerland,R0.23304
+484,Male,1 - Executive,Y,3,No,No,N,Strategy,1 - Executive,0,N,60 to 69,61,Japan,Asia Pacific,R0.31693
